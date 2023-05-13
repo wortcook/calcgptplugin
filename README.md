@@ -1,6 +1,13 @@
+# calculator - hello world example
 # ChatGPT plugins quickstart
 
+Modified from:  
 Get a todo list ChatGPT plugin up and running in under 5 minutes using Python. If you do not already have plugin developer access, please [join the waitlist](https://openai.com/waitlist/plugins).
+
+This plugin performs basic math calculations on behalf of a prompt.  Usefullness, unknown.
+
+Please don't do this in production, ever.
+
 
 ## Setup
 
